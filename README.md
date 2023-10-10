@@ -1,6 +1,6 @@
 # NetPractice 42
 
-![NetPractice 42 Logo](https://example.com/netpractice42_logo.png)
+<img width="1221" alt="Screen Shot 2023-10-10 at 6 57 20 AM" src="https://github.com/emohamedd/Net_Practice/assets/102475281/d11135cc-90aa-4493-889b-4171f8219298">
 
 ## Introduction to Networking
 
@@ -40,6 +40,7 @@ Before diving into the specifics of the NetPractice 42 project, let's briefly ex
 - **Base of 2**:
     - *Definition*: The base of 2 table is a table that lists the values of each bit in a binary number. This table is used to calculate subnet masks and IP address ranges. To calculate the subnet mask or IP address range, you start with the highest value in the table that is less than or equal to the desired value, and then add up the values of all the bits up to that point. For example, to calculate a subnet mask for a network with 8 hosts, you would start with the value 128 in the base of 2 table, and then add up the values of all the bits up to that point (128 + 0 + 0 + 0 + 0 + 0 + 0 + 0 = 128). This gives you a subnet mask of 255.255.255.128, which allows for 2 subnets and 126 hosts per subnet.
 
+<img width="1520" alt="Screen Shot 2023-10-09 at 3 23 37 PM" src="https://github.com/emohamedd/Net_Practice/assets/102475281/6b62b8b1-02a1-4d15-b63f-d334468fadaa">
 
 ## The NetPractice 42 Project
 
