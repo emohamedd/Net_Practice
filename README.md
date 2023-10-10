@@ -56,13 +56,3 @@ NetPractice 42 is an educational project designed to provide a comprehensive env
 - **Interactive Learning**: Detailed explanations and interactive simulations help deepen your understanding of networking concepts.
 
 - **10 Progressive Levels**: NetPractice 42 is organized into 10 levels, with each level becoming progressively more challenging. This structured approach ensures a gradual and comprehensive learning experience.
-
-### Getting Started
-
-**Prerequisites**:
-
-Before using NetPractice 42, ensure you have:
-
-- A computer with internet access
-- A web browser (Google Chrome, Mozilla Firefox, or Microsoft Edge recommended)
-- An active NetPractice 42 account
